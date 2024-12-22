@@ -1,4 +1,4 @@
-**Masker**
+ **Masker**
 Program that generates HTML files that contain cloaked iFrame sites
 ## Data URL
 
@@ -15,12 +15,10 @@ Download the zip and, use any frontend hosting, render, codepen, cloudflare etc 
 and upload the files.
 </div>
 
-<div>
-  
-</div>
-
-**Locally**
 
 <div>
+
+**How to host Locally**
+
 Install zip, unzip and open Index.html
 </div>
