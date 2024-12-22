@@ -10,8 +10,11 @@ data:text/html;charset=utf-8,%3C!DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%3
 
 
 **How to Host**
+<div>
 Download the zip and, use any frontend hosting, render, codepen, cloudflare etc etc
 and upload the files.
-
+</div>
 **Locally**
+<div>
 Install zip, unzip and open Index.html
+</div>
